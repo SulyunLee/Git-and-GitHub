@@ -56,7 +56,7 @@ master<br/>## easy-mode is checked out!</code>
 
 ##### Merging files
 <b>Example: merging coin branch and master branch</b></br>
-<code>$ git merge master coins
+<code>$ git merge master coins</code>
 
 ##### Deleting branch
 <code>$ git branch -d coins<br>
