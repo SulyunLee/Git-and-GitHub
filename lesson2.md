@@ -43,7 +43,7 @@ nothing added to commit but untracked files present (use "git add" to track)</co
 - branch helps you when you keep your project organized particularly when you share publicly.
 
 ##### show the current branch
-<code> $ git branch<br>* master<code>
+<code> $ git branch<br>* master</code>
 
 ##### run branch easy-mode
 <code>$ git branch easy-mode  # create a new branch with this name<br/>
